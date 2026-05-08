@@ -2,7 +2,7 @@
 
 A lightweight fork of OpenAsar focused on stability, lower resource usage, and smoother Discord performance on low end systems.
 
-Built using [OpenAsar Wiki](https://github.com/GooseMod/OpenAsar.wiki.git?utm_source=chatgpt.com) as a base, but modified to be more practical for everyday use, especially for voice chat and loudmicing.
+Built using [OpenAsar]([https://github.com/GooseMod/OpenAsar.wiki.git?utm_source=chatgpt.com](https://github.com/GooseMod/OpenAsar)) as a base, but modified to be more practical for everyday use, especially for voice chat and loudmicing.
 
 ## What changed
 
