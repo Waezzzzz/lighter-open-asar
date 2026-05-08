@@ -49,5 +49,4 @@ The goal was to make Discord feel lighter, faster, and more stable without break
 
 ## Base Project
 
-Original project and documentation:
-[OpenAsar Wiki Repository](https://github.com/GooseMod/OpenAsar.wiki.git?utm_source=chatgpt.com)
+[Install Guide](https://github.com/GooseMod/OpenAsar/wiki/Install-Guide)
