@@ -1,13 +1,53 @@
 # lighter-open-asar
 
- OpenAsar as a base but changed it to be more simple and practical for use other than the normal OpenAsar which just stops ur discord's process (freezes it in general) while u switch ur tabs
+A lightweight fork of OpenAsar focused on stability, lower resource usage, and smoother Discord performance on low end systems.
 
-What changed
+Built using [OpenAsar Wiki](https://github.com/GooseMod/OpenAsar.wiki.git?utm_source=chatgpt.com) as a base, but modified to be more practical for everyday use, especially for voice chat and loudmicing.
 
-- less ram usage so it does not lag when using discord in general and it just basically prioritises ur discord over every other process which will be running on ur pc (performance wise)
-- faster startup and smoother ui
-- better voice handling so loudmicing is more stable on ur low end device
-removed more of the useless background stuff that slows everything but also kept basic stuff that does not interrupt ur voice chats or discord's experience in general
-- less random lag and delay in voice
+## What changed
 
-works best for low end systems in general
+### Lower RAM usage
+
+Reduced unnecessary memory usage so Discord stays responsive even while multitasking.
+
+### Better process prioritization
+
+Adjusted performance behavior so Discord stays smoother instead of freezing or slowing down while switching tabs or running other apps.
+
+### Faster startup
+
+Discord launches quicker with less delay during initialization.
+
+### Smoother UI
+
+Reduced random UI lag and improved overall responsiveness.
+
+### Improved voice handling
+
+More stable voice performance for loudmicing and long voice sessions, especially on lower end devices.
+
+### Removed unnecessary background tasks
+
+Stripped down extra background behavior that slows Discord down while keeping important features untouched.
+
+### Reduced voice delay and stuttering
+
+Optimized for more consistent voice transmission with less random lag spikes.
+
+## Best for
+
+* Low end PCs
+* Loudmicing
+* Voice chat heavy usage
+* Multitasking while using Discord
+* Users who want a lighter Discord experience
+
+## Notes
+
+This is not meant to completely redesign OpenAsar.
+The goal was to make Discord feel lighter, faster, and more stable without breaking the normal user experience.
+
+## Base Project
+
+Original project and documentation:
+[OpenAsar Wiki Repository](https://github.com/GooseMod/OpenAsar.wiki.git?utm_source=chatgpt.com)
